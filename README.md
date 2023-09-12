@@ -1,14 +1,19 @@
 # aulas_JS
 Aulas JavaScript
 
-## Aula Variáveis
+## Declaração de Variáveis
+https://enzosiqueira.github.io/aulas_JS/variaveis/index.html
 
-## Aula Funções
+## Funções
+https://enzosiqueira.github.io/aulas_JS/
 
-## Aula Funções no Forms
+## Funções no Forms
+https://enzosiqueira.github.io/aulas_JS/
 
-## Aula Funções com Retorno e Parâmetro
+## Funções com Retorno e Parâmetro
+https://enzosiqueira.github.io/aulas_JS/
 
-## Aula Laços de Repetição 
+## Laços de Repetição 
+https://enzosiqueira.github.io/aulas_JS/
 
 
