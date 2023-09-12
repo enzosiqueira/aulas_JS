@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    text-align: center;
+}
+
+.ilustracao{
+padding-top: 30px;
+}
+
+.title{
+    padding-top: 30px
+    ;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+
+.container{
+    background-color: rgb(33, 209, 209);
+    width: 100%;
+    height: 100%;
+}
+
+footer{
+    padding: 15px;
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 300px;
+    cursor: pointer;
+}

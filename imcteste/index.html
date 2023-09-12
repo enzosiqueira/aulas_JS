@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>Document</title>
+        
+    </head>
+    <body>
+        <div class="container">
+            <h1 class="title">CALCULADOR DE ÍNDICE DE MASSA CORPÓRIA - IMC</h1>
+            <picture>
+                <img class="ilustracao" src="img/imagemIMC.jpg" alt="">
+            </picture>
+            <div class="formulario">
+            <form name="imcForm" id="imcForm" action="#">
+                <p class="altura">
+                    ALTURA <br>
+                    <input class="alt" type="text" id="altura" name="altura">
+                </p>
+                <p class="peso">
+                    PESO <br>
+                    <input class="pes" type="text" id="peso" name="peso">
+                </p>
+                <p>
+                    <input class="calcular" type="submit" value="CALCULAR" name="Enviar" onclick="calcular_imc(event)">
+                </p>
+                <div  class="resul" id="resul"></div>
+            </form>
+            </div>
+        </div>
+        <script src="imc2.js"></script>
+    </body>
+    <footer id="footer">
+        <div class="text-center">
+            <a target="_blank" class="footer" href="https://github.com/enzosiqueira">&copy; Copyright <strong>Enzo Siqueira</strong></a>
+        </div>
+    </footer>
+</html>
