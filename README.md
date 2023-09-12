@@ -1,11 +1,14 @@
 # aulas_JS
 Aulas JavaScript
 
-## Aula Declaração de Variáveis:
+## Aula Variáveis
 
-## Aula Declaração de Funções:
+## Aula Funções
 
-## Aula Cadastro e Saque:
+## Aula Funções no Forms
 
-## Aula Cálculo IMC:
+## Aula Funções com Retorno e Parâmetro
+
+## Aula Laços de Repetição 
+
 
