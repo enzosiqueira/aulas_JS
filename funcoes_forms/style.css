@@ -7,11 +7,7 @@
 
 body{
     height: 100vh;
-    background: linear-gradient(
-    90deg,
-    rgba(65, 184, 131, 1) 0%,
-    rgba(0, 212, 255, 1) 100%
-    );
+    background-color: black;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -21,6 +17,7 @@ body{
     margin-bottom: 30%;
     color: white;
     align-items: center;
+    font-family: Arial, Helvetica, sans-serif
 }
 
 .form{
@@ -50,7 +47,7 @@ body{
     padding: 2%;
     font-weight: bold;
     color: white;
-    background-color: rgba(15, 182, 0, 0.678);
+    background-color: rgba(21, 255, 0, 0.678);
 }
 .b4:hover{
     background-color: rgba(84, 136, 69, 0.37);
@@ -63,7 +60,7 @@ body{
 
 .text{
     font-weight: bolder;
-    color: rgb(0, 139, 139);
+    color: rgb(255, 0, 0);
 }
 
 .footer{
