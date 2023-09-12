@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+
+body{
+    height: 100vh;
+    background: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    margin-bottom: 30%;
+    color: white;
+    align-items: center;
+}
+
+.form{
+    align-items: center;
+    position: absolute;
+}
+
+.tab0, .tabf{
+    margin-top: 3%;
+    border: 2px solid white;
+    padding: 30px 40px;
+    width: 40%;
+    min-width: 500px;
+    color: white;
+    font-weight: bold;
+}
+
+.txt0, .txtf{
+    font-size: medium;
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+}
+
+.calc{
+    font-size: medium;
+    font-weight: bold;
+    margin-top: 3%;
+    padding: 3%;
+    color: white;
+    background-color:  rgba(65, 184, 131, 1);
+}
+
+.calc:hover{
+    cursor: pointer;
+    background-color: rgb(78, 223, 158);
+}
+

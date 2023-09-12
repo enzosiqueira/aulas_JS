@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="style.css">
+        <title>Document</title>
+        
+    </head>
+          <h1>Calculador de Índice de Massa Corpória - IMC</h1>  
+    <body>
+
+
+        
+        <div class="container">
+            <form name="imcForm" id="imcForm" action="#">
+                <p class="altura">
+                    Altura <br>
+                    <input class="alt" type="text" id="altura" name="altura">
+                </p>
+                <p class="peso">
+                    Peso <br>
+                    <input class="pes" type="text" id="peso" name="peso">
+                </p>
+                <p>
+                    <input class="calcular" type="submit" value="Calcular" name="Enviar" onclick="calcular_imc(event)">
+                </p>
+
+                <div  class="resul" id="resul"></div>
+            </form>
+
+            
+        </div>
+
+
+
+        <footer id="footer">
+
+            <div class="text-center">
+                <a target="_blank" class="footer" href="https://github.com/gabrielgarcia05">&copy; Copyright <strong>Gabriel Garcia</strong></a>
+            </div>
+        </footer>
+
+        <picture class="meme">
+            <img class="img" src="img/gif2.gif" alt="">
+        </picture>
+
+        <script src="imc2.js"></script>
+
+    </body>
+</html>

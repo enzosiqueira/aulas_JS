@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Inscrição</title>
+    <script src="aula3.js"></script>
+</head>
+<body>
+    <h1 class="title">Cadastro Banco</h1>
+    <form class="form"> 
+        <div>
+            <p class="button">
+                <input class="b1" type="button" value="Digitar Nome" onclick="nome=prompt('Seu Nome','')">
+                <input class="b2" type="button" value="Digitar E-mail" onclick="email=prompt('Email', '')">
+                <input class="b3" type="button" value="Valor do Saque" onclick="saque=parseInt(prompt('Quanto quer sacar?',''))">
+                <input class="b4" type="button" value="Cadastrar" onclick="escrever(this.form.Area)">
+            </p> 
+            <textarea class="text" cols="59,5" rows="10" name="Area"></textarea>
+        </div>
+    </form>
+    
+    <footer id="footer">
+        <div class="text-center">
+            <a target="_blank" class="footer" href="https://github.com/gabrielgarcia05">&copy; Copyright <strong>Gabriel Garcia</strong></a>
+        </div>
+    </footer>
+</body>
+</html>
