@@ -2,7 +2,7 @@
 Aulas JavaScript
 
 ## Aula Declaração de Variáveis:
-https://enzosiqueira.github.io/aulas_JS/declaracao_de_variaveis/aula1.html
+http://enzosiqueira.github.io/aulas_JS/declaracao_de_variaveis/aula01.html
 
 ## Aula Declaração de Funções:
 
