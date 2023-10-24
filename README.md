@@ -20,4 +20,4 @@ https://enzosiqueira.github.io/aulas_JS/lacoTabuada/index.html
 https://enzosiqueira.github.io/aulas_JS/orientado_objeto/index.html
 
 ## Orientando Objeto com Laço
-https://enzosiqueira.github.io/aulas_JS/orientado_objetos_lacos
+https://enzosiqueira.github.io/aulas_JS/orientado_objetos_lacos/index.html
