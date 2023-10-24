@@ -1,0 +1,12 @@
+.container{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+body{
+    background-color: beige;
+}
+p{
+   font-size: 15px;
+   font-style:italic;
+}
