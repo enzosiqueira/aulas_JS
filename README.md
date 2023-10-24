@@ -16,4 +16,6 @@ https://enzosiqueira.github.io/aulas_JS/imc/index.html
 ## Laços de Repetição 
 https://enzosiqueira.github.io/aulas_JS/lacoTabuada/index.html
 
+## Orientando Objeto sem Laço
+https://enzosiqueira.github.io/aulas_JS/orientado_objeto/index.html
 
