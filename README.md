@@ -21,3 +21,7 @@ https://enzosiqueira.github.io/aulas_JS/orientado_objeto/index.html
 
 ## Orientando Objeto com Laço
 https://enzosiqueira.github.io/aulas_JS/orientado_objetos_lacos/index.html
+
+## Troca de imagem
+https://enzosiqueira.github.io/aulas_JS/troca-imagem/index.html
+
