@@ -1,0 +1,19 @@
+.main-image{
+    width: 40px;
+}
+
+h1{
+    text-align: center;
+}
+
+.resp-img{
+    width: 250px;
+    margin-top: 15%;
+    cursor: pointer;
+}
+
+footer{
+    text-align: center;
+    margin-top: 4%;
+    font-size:2rem;
+}
