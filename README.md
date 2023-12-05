@@ -25,3 +25,7 @@ https://enzosiqueira.github.io/aulas_JS/orientado_objetos_lacos/index.html
 ## Troca de imagem
 https://enzosiqueira.github.io/aulas_JS/troca-imagem/index.html
 
+## Ulitima atividade
+https://enzosiqueira.github.io/aulas_JS/last-dance/index.html
+
+
